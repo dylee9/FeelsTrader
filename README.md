@@ -1,6 +1,6 @@
 # FeelsTrader
 
-Parse 'Twits' from Stocktwits.com. Analyze sentiment of stocks from Twits using ML. Trade according to sentiment. Make MONIES.
+A trading algorithm and website based off of public market sentiment. The project stems from the idea of predicting stock market sentiment via deep learning neural networks based off of social media platforms such as Twitter, StockTwits, Reddit, etc. A model trained on sentiment-labeled tweets/messages will be able to predict sentiments of tweets/messages posted in the future, allowing for the information to make trading decisions. These predictive results will also be visually displayed on the Django web application for users to make their own trading decisions as well.
 
 ## Requirements
 - Python 3.7.4
