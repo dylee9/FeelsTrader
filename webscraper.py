@@ -12,7 +12,7 @@ if __name__ == "__main__":
 	DRIVER_PATH = "drivers/chromedriver"
 	TARGET_URL = "https://stocktwits.com"
 	USERNAME = "runningmanruns"
-	PASSWORD = "runningmanruns123"
+	PASSWORD = "*******************"
 
 	# set option parameters
 	# options = Options()
